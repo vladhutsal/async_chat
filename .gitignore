@@ -1,0 +1,7 @@
+.python-versions
+.vscode/
+imgs/res.
+
+__pycache__/
+*.py[cod]
+*$py.class
